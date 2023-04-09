@@ -1,7 +1,7 @@
 # 🤖 AutoML & Visualization with Streamlit & PyCaret 📊
 
 This is a project that allows you to either visualize or automate the machine learning pipeline for a dataset that you have uploaded. It is built with [Streamlit](https://streamlit.io/) and [PyCaret](https://pycaret.org/), which makes it easy to use and accessible to all levels of users.
-**Don't forget to change your target column of yor dataset to "Outcome" for better result**
+**Don't forget to change your target column of your dataset to "Outcome" for better result .**
 ## 📋 Getting Started
 
 1. Clone the repository:
